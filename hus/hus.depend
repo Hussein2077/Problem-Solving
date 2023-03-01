@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1631131791 source:e:\data 1\programming methods\c++\first\hus\main.cpp
+	<iostream>
+	<algorithm>
+	<cmath>
+	<string.h>
+	<bits/stdc++.h>
+	<string>
+

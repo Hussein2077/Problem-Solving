@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1619313388 source:d:\data 1\programming methods\c++\first\sheet 2\main.cpp
+	<iostream>
+
+1619804358 source:e:\data 1\programming methods\c++\first\sheet 2\main.cpp
+	<iostream>
+	<algorithm>
+	<cmath>
+	<string.h>
+	<bits/stdc++.h>
+	<string>
+
