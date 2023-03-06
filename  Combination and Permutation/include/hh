@@ -1,0 +1,16 @@
+#ifndef HH_
+#define HH_
+
+
+class hh
+{
+    public:
+        hh();
+        virtual ~hh();
+
+    protected:
+
+    private:
+};
+
+#endif // HH_

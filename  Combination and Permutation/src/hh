@@ -1,0 +1,11 @@
+#include "hh."
+
+hh::hh()
+{
+    //ctor
+}
+
+hh::~hh()
+{
+    //dtor
+}
